@@ -59,6 +59,8 @@ Finally: `git config --global core.editor "code --wait"`.
 
 All homework can be DMed to me on Teams by the aforementioned due date ☝️. It can be in an attached document or just composed directly in Teams. Or a video! Whatever works for you.
 
+**Update:** It appeears that there me be a permissions issue disallowing students from uploading media on MS Teams? 👎 If that is the case, please check in BrightSpace to submit.
+
 ### Understand the Syllabus and Course Materials
 
 Answer the following questions:
