@@ -80,7 +80,7 @@ Send me screenshots(or a video) of the following commands run from your terminal
 ### Set up Accounts
 
 1. Send me a link to your GitHub account. This would be something like: `https://github.com/manavm1990`. Notice your username at the end.
-1. Join our [Stack Overflow Team](https://stackoverflowteams.com/c/swic-js).
+1. ~~Join our [Stack Overflow Team](https://stackoverflowteams.com/c/swic-js).~~
 
 ### Create an Introductory Video
 
