@@ -4,7 +4,7 @@
 
 ## Syllabus
 
-1. [Syllabus Walkthrough I](https://somup.com/cZVIqTkzhp)
+1. [Syllabus Walkthrough I](https://somup.com/cZVooakAJV)
 1. [Syllabus Walkthrough II](https://somup.com/cZVIqRkz1t)
 
 ## Course Materials
@@ -66,6 +66,7 @@ Answer the following questions:
 1. What is the goal/purpose of this course?
 1. How many total points are available in this course?
 1. Approximately how often will we have homework?
+2. Based on previous renditions of this course what do the numbers say about the final grade results?
 
 ### Ensure That You Have Set Up Your Environment
 
