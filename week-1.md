@@ -24,7 +24,7 @@
 
 You can skip this section if you're on a Mac/Linux.
 
-1. [Chrome and VS Code](https://somup.com/cZVIYokz1E)
+1. [Chrome and VS Code](https://somup.com/cZVIYokz1E). Be sure it's [Visual Studio Code](https://code.visualstudio.com/download) withthe blue icon. Not **Visual Studio.** Yes. Confusing 😕.
 1. [Git Bash](https://somup.com/cZVIYmkzir)
 1. [Git Bash II](https://somup.com/cZVIY9kzip)
 1. [GitHub CLI](https://somup.com/cZVIr6kziL)
