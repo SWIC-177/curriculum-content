@@ -4,7 +4,7 @@
 
 ## Syllabus
 
-1. [Syllabus Walkthrough I](https://somup.com/cZVIqTkzhp)
+1. [Syllabus Walkthrough I](https://somup.com/cZVooakAJV)
 1. [Syllabus Walkthrough II](https://somup.com/cZVIqRkz1t)
 
 ## Course Materials
@@ -24,7 +24,7 @@
 
 You can skip this section if you're on a Mac/Linux.
 
-1. [Chrome and VS Code](https://somup.com/cZVIYokz1E)
+1. [Chrome and VS Code](https://somup.com/cZVIYokz1E). Be sure it's [Visual Studio Code](https://code.visualstudio.com/download) withthe blue icon. Not **Visual Studio.** Yes. Confusing 😕.
 1. [Git Bash](https://somup.com/cZVIYmkzir)
 1. [Git Bash II](https://somup.com/cZVIY9kzip)
 1. [GitHub CLI](https://somup.com/cZVIr6kziL)
@@ -59,6 +59,8 @@ Finally: `git config --global core.editor "code --wait"`.
 
 All homework can be DMed to me on Teams by the aforementioned due date ☝️. It can be in an attached document or just composed directly in Teams. Or a video! Whatever works for you.
 
+**Update:** It appears that there me be a permissions issue disallowing students from uploading media on MS Teams? 👎 If that is the case, please check in BrightSpace to submit.
+
 ### Understand the Syllabus and Course Materials
 
 Answer the following questions:
@@ -66,6 +68,7 @@ Answer the following questions:
 1. What is the goal/purpose of this course?
 1. How many total points are available in this course?
 1. Approximately how often will we have homework?
+2. Based on previous renditions of this course what do the numbers say about the final grade results?
 
 ### Ensure That You Have Set Up Your Environment
 
@@ -78,8 +81,8 @@ Send me screenshots(or a video) of the following commands run from your terminal
 
 ### Set up Accounts
 
-1. Send me a link to your GitHub account.
-1. Join our [Stack Overflow Team](https://stackoverflowteams.com/c/swic-js).
+1. Send me a link to your GitHub account. This would be something like: `https://github.com/manavm1990`. Notice your username at the end.
+1. ~~Join our [Stack Overflow Team](https://stackoverflowteams.com/c/swic-js).~~
 
 ### Create an Introductory Video
 
