@@ -69,6 +69,12 @@ Basically, just follow the prompts and choose the default options.
 1. `code .` will open up VS Code in your current directory.
 1. Once inside of VS Code, try 'command + shift + p'. This will open up the command palette. Type 'shell' and you will see a command called 'Shell Command: Install 'code' command in PATH'. Select it and press 'enter'. This will allow you to open up VS Code from the terminal by typing `code .`, if it didn't work for you before.
 
+### Special Instructions for Windows Users
+
+[Video](https://somup.com/cZVYF8km1f)
+
+We want our line endings to be consistent with Unix. This is important for cross-platform compatibility. You can read more about it [here](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings).
+
 ## Git Commands
 
 [Video](https://somup.com/cZVYqXkmin)
