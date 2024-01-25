@@ -43,6 +43,16 @@ You'll want to authenticate with GitHub.com. You'll need to paste a code into th
 
 Basically, just follow the prompts and choose the default options.
 
+### So, What's Happening Here?
+
+It turns out that the terminal itself can connect to the internet. For instance, we can do `curl google.com` and it will return the HTML for Google's homepage. `curl` is a program that makes HTTP requests. It is a program that runs in the terminal. We don't care about `curl`, but the point is that internet connectivity is not limited to the browser. The terminal can connect to the internet too.
+
+In fact, back in the early days of the world wide web, there was an early text-based browser named Lynx. It was a browser that ran in the terminal. You can read more about it [here](<https://en.wikipedia.org/wiki/Lynx_(web_browser)>).
+
+Now, with `gh auth login`, we are authenticating our terminal to talk to GitHub and to consistently 🆔 us. This will allow us to do things like `gh repo create` and `gh repo clone` without having to authenticate every time.
+
+Here, to authenticate means to prove that we are who we say we are. We are proving that we are the owner of our GitHub account.
+
 ## Git/GitHub Cloning
 
 [Video](https://somup.com/cZVYFykmhB)
