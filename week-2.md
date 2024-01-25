@@ -79,7 +79,7 @@ Here, to authenticate means to prove that we are who we say we are. We are provi
 
 ### Special Instructions for Windows Users
 
-[Video](https://somup.com/cZVYF8km1f)
+[Video](https://screenpal.com/watch/cZVTfgVJpzF)
 
 We want our line endings to be consistent with Unix. This is important for cross-platform compatibility. You can read more about it [here](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings).
 
