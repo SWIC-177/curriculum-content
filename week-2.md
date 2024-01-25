@@ -43,8 +43,6 @@ You'll want to authenticate with GitHub.com. You'll need to paste a code into th
 
 Basically, just follow the prompts and choose the default options.
 
-**You may want to set up Chrome or FF as your default browser** for this part for consistency. You can always change it back later, if desired.
-
 ## Git/GitHub Cloning
 
 [Video](https://somup.com/cZVYFykmhB)
