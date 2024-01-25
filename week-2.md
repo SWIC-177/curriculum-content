@@ -143,6 +143,6 @@ As this is all on GitHub and I have access to your repos via GitHub Classroom, y
 
 ## Bonus
 
-For extra credit, register for an account and earn 2️⃣ points per game finished. Send me the screenshot. Max of 10 extra credit points.
+For extra credit, [register for an account on CodePip](https://codepip.com/) and earn 2️⃣ points per game finished. Send me the screenshot. Max of 10 extra credit points.
 
 You must also send me an brief explanation of the results of each game via video. Tell me about what you learned. Convince me that you didn't just jump on YouTube and 'copy' the answers. I want to see that you actually learned something.
