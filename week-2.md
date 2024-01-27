@@ -163,6 +163,29 @@ As this is all on GitHub and I have access to your repos via GitHub Classroom, y
 
 ---
 
+**Update:** Check your `.vscode/settings.json`. It should like this:
+
+```json
+{
+  "css.validate": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n"
+}
+```
+
+If it doesn't, you can just copy and paste the above content and **completely replace** the contents of your `settings.json` file. After doing so, you can make a **commit:** `git commit -am "Update settings.json"`. Then, you can **push:** `git push`. You should see the changes reflected in your GitHub repo.
+
+---
+
+---
+
 ## Bonus
 
 For extra credit, [register for an account on CodePip](https://codepip.com/) and earn 2️⃣ points per game finished. Send me the screenshot. Max of 10 extra credit points.
