@@ -139,6 +139,12 @@ A video or audio recording of your summary would be nice too.
 
 Post these in BrightSpace.
 
+## Homework Due Tuesday 1/30/2024 by 11:59pm
+
+**Note:** This spills into week 3️⃣ as I am extending the deadline to Tuesday.
+
+**Update:** I have updated the template repo to include `modern-normalize`. It improves the browser's default styles. Please review [this video.](https://somup.com/cZVtqMk8oN). You can follow the directions in this video and add it to your project.
+
 ### HTML/CSS Skills Demo
 
 ❗ As you work on this, you should be committing your changes to your local repository and pushing them to your remote repository on GitHub.
