@@ -184,6 +184,13 @@ If it doesn't, you can just copy and paste the above content and **completely re
 
 ---
 
+**Update:** In the videos listed below, 👇🏾 I give some additional context and show some simple example of my own bio. Note that you should do your own rendition and don't just ~~copy~~ imitate/emulate mine. Also, note that for the purposes of the video, I am **not** 'committing early and committing often.' I am just doing a single commit at the end. You should be committing early and often.
+
+1. [Overview](https://somup.com/cZVtY1k8D3)
+1. [HTML](https://somup.com/cZVtrDk8FF)
+1. [CSS](https://somup.com/cZVtrgk8FH)
+1. [Form](https://somup.com/cZVtrPk8qQ)
+
 ---
 
 ## Bonus
