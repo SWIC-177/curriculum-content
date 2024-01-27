@@ -120,6 +120,8 @@ We want our line endings to be consistent with Unix. This is important for cross
 
 ### Terminal and Git/GitHub
 
+This part is for the `throwaway` repository that you created from the videos ☝️. It's just to confirm that you followed along and got the points.
+
 For the BrightSpace submission, you would share the screenshot files (or a video) and a link to your GitHub repository 👇🏾.
 
 1. Post a screenshot(s) of your terminal `history`. Highlight the commands that you ran for this week's homework. You can use the `history` command to see your terminal history. You can also use the up and down arrows to cycle through your history. You can also use the `history` command with a `grep` to search for a specific command. For example: `history | grep "cd Code"`.
