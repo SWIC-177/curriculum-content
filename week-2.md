@@ -103,6 +103,8 @@ We want our line endings to be consistent with Unix. This is important for cross
 
 ☝️ This is a good commit message because it is short, descriptive, and in the imperative mood. It capitalizes the first word and does not end with a period.
 
+Here's an example of doing [**adds** and **commits** from inside VS Code.](https://somup.com/cZnVYnpnrS)
+
 ### Logging and Pushing
 
 **Note:** Whenever you do `git log`, on Mac/Linux you will need to press 'q' to exit the log.
