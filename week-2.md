@@ -143,9 +143,9 @@ A video or audio recording of your summary would be nice too.
 
 Post these in BrightSpace.
 
-**Update:** I have updated the template repo to include `modern-normalize`. It improves the browser's default styles. Please review [this video.](https://somup.com/cZVtqMk8oN). You can follow the directions in this video and add it to your project.
-
 ### HTML/CSS Skills Demo
+
+**Update:** I have updated the template repo to include `modern-normalize`. It improves the browser's default styles. Please review [this video.](https://somup.com/cZVtqMk8oN). You can follow the directions in this video and add it to your project.
 
 ❗ As you work on this, you should be committing your changes to your local repository and pushing them to your remote repository on GitHub.
 
