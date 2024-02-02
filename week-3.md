@@ -24,3 +24,13 @@ Create a GitHub Gist (remember to have the file extension be `.md`) and summariz
 ![Questions](image-1.png). Ok, just answer the questions in your own words. This is to be **a video submission** via BrightSpace. You are to pretend that you are being asked these questions in an interview situation. You video should be 3-5 minutes long, at least, but no longer than 10 minutes, please.
 
 In addition, I want you to highlight specifically in the MDN materials were you got your information from. This can be done via screenshots or maybe just a MarkDown list of links, like a list of sources. The point is that I want your information to come from these materials specifically that are assigned. I don't just want you to Google or ChatGPT your answers.
+
+---
+
+## GitHub Copilot
+
+This is not really HW but it would be foolish for you **not** to get this!
+
+Here's a [demo of GitHub Copilot with the Chat.](https://somup.com/cZnnrepfb1)
+
+You can [apply to get it for free as a 🧑‍🎓](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student#applying-to-github-global-campus)
