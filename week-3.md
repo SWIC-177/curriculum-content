@@ -15,13 +15,13 @@
 
 Create a GitHub Gist (remember to have the file extension be `.md`) and summarize 3-4 things that you learned from the video. Submit the link to this file in BrightSpace. Be sure to share using:
 
-![Use the Share link](image.png), not the 'Embed' option.
+![Use the Share link](./media/images/image.png), not the 'Embed' option.
 
 ## Homework Assignment (Due Saturday, 2/3)
 
 [This video](https://somup.com/cZVt30k8qd) refers to [the materials from MDN.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
 
-![Questions](image-1.png). Ok, just answer the questions in your own words. This is to be **a video submission** via BrightSpace. You are to pretend that you are being asked these questions in an interview situation. You video should be 3-5 minutes long, but no longer than 10 minutes, please.
+![Questions](./media/images/image-1.png). Ok, just answer the questions in your own words. This is to be **a video submission** via BrightSpace. You are to pretend that you are being asked these questions in an interview situation. You video should be 3-5 minutes long, but no longer than 10 minutes, please.
 
 In addition, I want you to highlight specifically in the MDN materials where you got your information from. This can be done via screenshots or maybe just a MarkDown list of links, like a list of sources. The point is that I want your information to come from these materials specifically that are assigned. I don't just want you to Google or ChatGPT your answers.
 
