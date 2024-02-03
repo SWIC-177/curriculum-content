@@ -68,6 +68,7 @@ It's a utility-first CSS framework. This means that it's designed to be used dir
 
 1. [Tailwind Overview](https://somup.com/cZneFfpfds)
 1. [Tailwind Docs 📝](https://somup.com/cZneFIpfK2)
+1. Listen to this [podcast episode on CSS Units](https://syntax.fm/show/107/hasty-treat-css-units)
 
 ## Homework Due For Saturday (10 points)
 
@@ -80,6 +81,8 @@ Write a reflection (as usual) on your initial thoughts and reactions to all of t
 Next, start going through at least 5-10 of the various parts of the documentation where they cover the various example classes and how they wor,
 
 You can pick and choose, but I want to see that you've been through a variety of things. You can do more if you like, but 5-10 is the minimum. Definitely explore the common things that you've already used like `flex`, `grid`, `text`, `bg`, etc. But, also try to find some things that you haven't used yet.
+
+I also want you to connect what Tailwind CSS has as it pertains to the CSS Units podcast episode. Which classes might correspond to what they talk about in the episode?
 
 From said docs, give examples (basically just copy from the docs) and explain your understanding. Do you understand the underlying CSS? When do you think you might use whatever classes you just chose? In your HTML-CSS project, can you envision where you will end up refactoring ♻️ away some of your CSS 💄 and use these Tailwind classes install? Don't actually make the changes yet as that will be a separate HW!
 
