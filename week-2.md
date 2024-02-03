@@ -118,6 +118,8 @@ Here's an example of doing [**adds** and **commits** from inside VS Code.](https
 
 [Video](https://somup.com/cZVYqPkmjO)
 
+[Git and GitHub 🛝 Slides](./media/git-gitHub-essentials.pdf)
+
 ## Homework Due Tuesday 1/30/2024 by 11:59pm
 
 **Note:** This spills into week 3️⃣ as I am extending the deadline to Tuesday.
