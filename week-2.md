@@ -171,7 +171,7 @@ As this is all on GitHub and I have access to your repos via GitHub Classroom, y
 {
   "css.validate": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   "editor.bracketPairColorization.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
