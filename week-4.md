@@ -56,7 +56,7 @@ Mixin your analogies, feelings, examples, etc. Anything you can do to make it mo
 
 As always your MD should reflect good use of headings, paragraphs, lists, etc. Whatever is appropriate for the content. It should be well-formatted and easy to read. It should be reasonably free of spelling and grammatical errors. You can always us ChatGPT to help with that part of it, but the information comes from you and the time you spend watching and reflecting.
 
-Generally, if I get the impression that you just slopped some 💩 together at the last minute I'm going to slash 🔪 your score 👿. Unfortunately, that's what happened on the last round of reflections for a few folks 👎🏾.
+Note that the above is a minimum. There are additional questions and tips given in the videos. Watch closely and take notes. You can use those notes to help you write your reflections and get the full points. Maybe even a couple of extra points.
 
 ## Tailwind CSS
 
