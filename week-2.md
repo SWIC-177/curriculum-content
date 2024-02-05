@@ -89,12 +89,13 @@ We want our line endings to be consistent with Unix. This is important for cross
 
 1. `git status` will show you the current state of your repository.
 1. `git add .` will add all of your changes to the staging area. Or, just `git add` followed by the name of the file you want to add.
-1. `git commit -m "message"` will commit your changes to your local repository. The `-m` is a flag that allows you to add a message to your commit.
+1. `git commit -m` **followed by a message in quotes 👇** will commit your changes to your local repository. The `-m` is a flag that allows you to add a message to your commit. For example: `git commit -m "Update the page title"`.
 
 ### Git Commit Messages
 
 [Video](https://somup.com/cZVYqqkmiY)
 
+1. Commit messages reflect a 'logical unit of work.' This could be adding a feature or fixing a bug. That could mean editing 1 line of code or 10 lines of codes or more code across a few different files. Whenever you can clearly describe what you just did in a short message, it's time for a `commit`. If you feel that it might be time for a `commit`, it probably is.
 1. Commit messages should be in the imperative mood.
 1. Commit messages should be short and sweet.
 1. Commit messages should be descriptive.
