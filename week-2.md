@@ -193,11 +193,3 @@ If it doesn't, you can just copy and paste the above content and **completely re
 1. [CSS](https://somup.com/cZVtrgk8FH)
 1. [Form](https://somup.com/cZVtrPk8qQ)
 1. [Media Query and CSS Grid](https://somup.com/cZVu2gk8zd)
-
----
-
-## Bonus
-
-For extra credit, [register for an account on CodePip](https://codepip.com/) and earn 2️⃣ points per game finished. Send me the screenshot. Max of 10 extra credit points.
-
-You must also send me an brief explanation of the results of each game via video. Tell me about what you learned. Convince me that you didn't just jump on YouTube and 'copy' the answers. I want to see that you actually learned something.
