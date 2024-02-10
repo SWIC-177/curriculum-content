@@ -43,3 +43,11 @@ Don't just send a wall of text like you're sending a Snap message or something!
 Follow along with this [video](https://www.youtube.com/live/_y_3c4wRVOc?si=jPTXjCY9CFbwn_y3). Here is [a starter Playground link that should give you the HTML that I am using](https://play.tailwindcss.com/0QqzGV4Xlu) in the video.
 
 ⚠️ The video goes quite fast as it was meant to be just a high-level intro and not really a 'tutorial' per se, so **don't worry about getting it all.** Again, this is based upon your efforts, and feel free to remix it a bit and add your own creativity. Just make it look 'good enough' while taking some pride in your work.
+
+---
+
+## GitHub Copilot in the CLI! (Not HW)
+
+If you've already [enabled Copilot](https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-personal-account), you can [install and activate it in your CLI!](https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli#installing-copilot-in-the-cli)
+
+As a reminder, CLI means the same as the terminal or command prompt. For Windows, that's GitBash. For Mac, that's Warp or iTerm2. Anyway, here's a [video](https://somup.com/cZn62Epoy0).
