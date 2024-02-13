@@ -44,6 +44,8 @@ Follow along with this [video](https://www.youtube.com/live/_y_3c4wRVOc?si=jPTXj
 
 ⚠️ The video goes quite fast as it was meant to be just a high-level intro and not really a 'tutorial' per se, so **don't worry about getting it all.** Again, this is based upon your efforts, and feel free to remix it a bit and add your own creativity. Just make it look 'good enough' while taking some pride in your work.
 
+Once you have finished, share your Tailwind Playground link via BrightSpace. Again, you will need to upload any filler file, but then just paste the link directly in the message.
+
 ---
 
 ## GitHub Copilot in the CLI! (Not HW)
