@@ -18,15 +18,15 @@ As indicated in the video, submit the completed link from the Tailwind Playgroun
 
 Read and reflect on the [Introduction from _Eloquent JavaScript_](https://eloquentjavascript.net/00_intro.html#h_GlF1Kuv0JF). Read **through** the section entitled [_What is JavaScript?_](https://eloquentjavascript.net/00_intro.html#h_UmlI5uNVqn). This [video](https://somup.com/cZn62bpoxH) marks where to start and stop reading.
 
-### Mozilla MDN JavaScript Guide
+~~### Mozilla MDN JavaScript Guide~~
 
-Read and reflect on the following:
+~~Read and reflect on the following:~~
 
-1. [What Is JavaScript?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
-1. [JavaScript and Java](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_java)
-1. [JavaScript and the ECMAScript Specification](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)
+~~1. [What Is JavaScript?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)~~
+~~1. [JavaScript and Java](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_java)~~
+~~1. [JavaScript and the ECMAScript Specification](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)~~
 
-There are a lot of links within those ☝️ links, but don't worry about clicking on them. Just read through the content and reflect on it.
+~~There are a lot of links within those ☝️ links, but don't worry about clicking on them. Just read through the content and reflect on it.~~
 
 ---
 
