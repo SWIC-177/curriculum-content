@@ -244,7 +244,7 @@ Finish reading the rest of Chapter 1 in _Eloquent JavaScript_ and share your tho
 
 You'll reference the HTML-CSS project repo that you created a couple of weeks ago.
 
-In the [video], you see me strip...er...strip out the styles from the HTML-CSS project. This includes StyleLint and Modern Normalize 🔥.
+In the [video](https://somup.com/cZenr5pHlF), you see me strip...er...strip out the styles from the HTML-CSS project. This includes StyleLint and Modern Normalize 🔥.
 
 As a reference, your `package.json` should look similar to this after following the video:
 
@@ -308,30 +308,16 @@ We [install Tailwind via Vite.](https://tailwindcss.com/docs/guides/vite)
 
 We install [Tailwind's Prettier plugin.](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
-### Homework Due For Saturday (10 points)
-
-You already know...👀. Rework your HTML-CSS using 💯 Tailwind classes only.
-
-Of course, we are limiting ourselves to [the default color palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette). It is definitely possibly to fully customize Tailwind, but not necessary for our purposes. Just stick with what's available unless you really want to explore more.
-
-If you used some type of background images in your original you have to do some additional Tailwind customizations. An easy way to do this is to just use [arbitrary values](https://tailwindcss.com/docs/background-image#arbitrary-values). Or, just don't worry about the the background images! Replace with a nice gradient
-
-As always, please keep a good commit history. Do an `add` and `commit` after each logical unit or work or task that you completed. You can do that directly from VS Code as you have seen in the videos. Or, from the terminal.
-
-**DON'T FORGET TO PUSH YOUR WORK TO GITHUB!**
-
-Once you have done that, you can DM me in Teams and I can access your work directly via GitHub Classroom. Or, even better, just shoot me that link to your repo once again.
-
-One last thing - if possible create a submission on BrightSpace. That means you can just upload a screenshot of your work or whatever. This makes it easier for me to enter the score! Yeah, it's silly 🙃 🤦🏾‍♀️.
-
 ## Tailwind Refactor ♻️ Example
 
-**This section is optional.** I just wanted to show you how I did it for the example that I created in the video.
+Feel free to skip ahead to the homework that's due for Saturday 👇🏾. You can come back to this part and reference it as necessary.
 
 1. [Header](https://somup.com/cZnZ0Lpzxi)
 1. [Main Section](https://somup.com/cZnTchpzx0)
 1. [Form](https://somup.com/cZnTcDpzxa)
 1. [Additional Styles](https://somup.com/cZnTc0pzxm)
+
+---
 
 For the mobile view I ended up doing this for better spacing/margins throughout:
 
@@ -392,3 +378,24 @@ Here's how that looks:
 ---
 
 [Tailwind Finale](https://somup.com/cZenrDpHXA)
+[Code Repo](https://github.com/SWIC-177/tailwind-demo). See the `README.md` for more details about how to **fork** and **clone** the repo for reference. As always **DO NOT** `clone` into an existing repo. Clone into your `Code` directory or any directory that is not a repo! 🙃
+
+That `README` also shows you how to deploy this to a live site - in the video link!
+
+## Homework Due For Saturday (10 points)
+
+You already know...👀. Rework your HTML-CSS using 💯 Tailwind classes only.
+
+Of course, we are limiting ourselves to [the default color palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette). It is definitely possibly to fully customize Tailwind, but not necessary for our purposes. Just stick with what's available unless you really want to explore more.
+
+If you used some type of background images in your original you have to do some additional Tailwind customizations. An easy way to do this is to just use [arbitrary values](https://tailwindcss.com/docs/background-image#arbitrary-values). Or, just don't worry about the the background images! Replace with a nice gradient
+
+As always, please keep a good commit history. Do an `add` and `commit` after each logical unit or work or task that you completed. You can do that directly from VS Code as you have seen in the videos. Or, from the terminal.
+
+**DON'T FORGET TO PUSH YOUR WORK TO GITHUB!**
+
+Once you have done that, you can DM me in Teams and I can access your work directly via GitHub Classroom. Or, even better, just shoot me that link to your repo once again.
+
+**You must also deploy your site to a live URL.** You must share your live deployed link with the rest of the class to receive full points.
+
+One last thing - if possible create a submission on BrightSpace. That means you can just upload a screenshot of your work or whatever. This makes it easier for me to enter the score! Yeah, it's silly 🙃 🤦🏾‍♀️.
