@@ -377,7 +377,7 @@ Here's how that looks:
 
 ---
 
-[Tailwind Finale](https://somup.com/cZenrDpHXA)
+[Tailwind Final Summary](https://screenpal.com/watch/cZen3OVKAV9)
 [Code Repo](https://github.com/SWIC-177/tailwind-demo). See the `README.md` for more details about how to **fork** and **clone** the repo for reference. As always **DO NOT** `clone` into an existing repo. Clone into your `Code` directory or any directory that is not a repo! 🙃
 
 That `README` also shows you how to deploy this to a live site - in the video link!
