@@ -347,3 +347,5 @@ Read _Eloquent JS Chapter 2_ as shown in [this video.](https://somup.com/cZeFeFC
 Note that the examples in this reading can be a bit more complex than necessary. I don't particularly care for them. So, just identify 3-5 things that you found interesting or confusing. You can also ask questions about the reading. Did this reading help solidify your understanding of the concepts we've covered so far? What's the most confusing part? What's the most straightforward part?
 
 So, once again, this will be an MD Gist, but...wait, there's more! Refactor the `verifyAdulthood` function from the previous homework to use an object literal instead of separate parameters. If you want to include a video, you can, but since it's a small refactor, assuming it's not necessary. A concise explanation and/or code comments will suffice. Once again, you can do this as a commit on your `js-first-blood` repository.
+
+Just make 💯 sure that you have a pretty good idea 💡 of how to work with **object literals.** With AI 🤖, it's sometimes too easy to gloss over the details, and this will become a problem later on as things get more complex.
