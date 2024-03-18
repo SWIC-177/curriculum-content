@@ -48,6 +48,13 @@ function add2Nums(x, y) {
 const sum = add2Nums(200, 300);
 ```
 
+[Parameters, Arguments and 1️⃣ Night Stands...](https://somup.com/cZeFDHCjmG)
+
+### Pass by Copy/Value
+
+Whenever we pass a **variable** that is bound to a **primitive data type** in as an **argument** to a function, we are passing the **value** that the variable is bound to. We are not passing the variable itself. It's a separate copy.
+
+[Functions and Variables](https://somup.com/cZeFbACj7K)
 
 ## Conditional Logic
 
@@ -335,7 +342,7 @@ This will be an MD submission (Gist is fine).
 
 Recreate some of the object literal examples shown in the videos and the text. Then, make them your own. Add some additional properties, for instance.
 
-There are many potentially confusing 😕 concepts. `undefined` vs `null` vs `'not defined'`. Arrays vs. object literals and their treatment of `undefined`. `const` doesn't mean **constant.**
+There are many potentially confusing 😕 concepts. `undefined` vs `null` vs `'not defined'`. Arrays vs. object literals and their treatment of `undefined`. `const` doesn't mean **constant.** Variables bound to primitive data types are passed as separate copies whenever they are used as function arguments.
 
 You are not expected to get it all down right now, but as much as possible, supplement your examples with additional explanations. Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
 
