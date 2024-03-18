@@ -338,7 +338,7 @@ There are many potentially confusing 😕 concepts. `undefined` vs `null` vs `'n
 
 You are not expected to get it all down right now, but as much as possible, supplement your examples with additional explanations. Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
 
-Ask any supplemental questions too. These questions will help guide the next lessons. Don't forget that you can use CoPilot chat and/or [Claude 3](claude.ai) to converse about these concepts as well.
+Ask any supplemental questions too. These questions will help guide the next lessons. Don't forget that you can use CoPilot chat and/or [Claude 3](claude.ai) to converse about these concepts as well. And, of course, you can use our [Q&A Discussion](https://github.com/orgs/SWIC-177/discussions/categories/q-a).
 
 ## Homework Due Saturday
 
