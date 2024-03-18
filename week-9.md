@@ -8,6 +8,47 @@ I [have **pushed** an update up to the `node-template` repository.](https://gith
 
 However, if you wish to make the update from your side on `js-first-blood` or any other repository, you can do so by following the along with [this video](https://somup.com/cZeb3MCilU).
 
+## Functions
+
+We'll spending lots of time and effort working with functions for the rest of the course. Fortunately, we've already been introduced to writing functions and some of this current content will just be a review.
+
+![Functions are reusable blocks of code](./media/images/functions/fxns.png)
+
+Optionally, but almost always, functions specify some **parameters** or placeholders for **arguments** that will be passed to the function when it's called. The **arguments** are the actual values that are passed to the function when it's called.
+
+```javascript
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
+```
+
+In the above example, `name` is a **parameter**. When we call the function, we'll pass an **argument** to it. The **argument** will be the **value** that we want to use in place of `name` inside of the function.
+
+![Arguments are the actual values that are passed to the function](./media/images/functions/arguments.png).
+
+Finally, optionally, but almost always, functions can specify a **return value**. This is the value that the function will produce when it's called. We can then use this value in our code.
+
+![Functions can return a value](./media/images/functions/returns.png)
+
+```javascript
+/**
+ * FUNCTION DECLARATION
+ * Call it 'add2Nums' or whatever you want - BTW, functions usually do something, so it's nice to name them starting with a verb
+ * Specify 2 PARAMETERS - 'x' and 'y'.
+ * The ARGUMENTS that this function will receive will be bound to 'x' and 'y' respectively. This is essentially what we have been doing with 'const,' but the fxn. manages this for us.
+ */
+function add2Nums(x, y) {
+  return x + y;
+}
+
+// INVOKE/EXECUTE/RUN the function with the ARGUMENTS `200` and `300`.
+// ARGUMENT 200 will be bound to 'x' and the argument `300` will be bound to
+// `y` while we are running 'add2Nums'
+// Whatever data is returned, bind it to the variable 'sum'
+const sum = add2Nums(200, 300);
+```
+
+
 ## Conditional Logic
 
 ### `if` Statements
@@ -284,49 +325,9 @@ console.log(myObj.myNum); // 23
 
 You might be wondering why we care about the bracket notation. After all, the dot notation is simpler to work with. Rather than trying to explain that now, we'll wait until we encounter the need to use bracket notation organically. Just be sure to keep a note of this in the back of your mind.
 
-## Functions
+## Functions in a Loosely Typed Language
 
-We'll spending lots of time and effort working with functions for the rest of the course. Fortunately, we've already been introduced to writing functions and some of this current content will just be a review.
-
-![Functions are reusable blocks of code](./media/images/functions/fxns.png)
-
-Optionally, but almost always, functions specify some **parameters** or placeholders for **arguments** that will be passed to the function when it's called. The **arguments** are the actual values that are passed to the function when it's called.
-
-```javascript
-function greet(name) {
-  console.log(`Hello, ${name}!`);
-}
-```
-
-In the above example, `name` is a **parameter**. When we call the function, we'll pass an **argument** to it. The **argument** will be the **value** that we want to use in place of `name` inside of the function.
-
-![Arguments are the actual values that are passed to the function](./media/images/functions/arguments.png).
-
-Finally, optionally, but almost always, functions can specify a **return value**. This is the value that the function will produce when it's called. We can then use this value in our code.
-
-![Functions can return a value](./media/images/functions/returns.png)
-
-```javascript
-/**
- * FUNCTION DECLARATION
- * Call it 'add2Nums' or whatever you want - BTW, functions usually do something, so it's nice to name them starting with a verb
- * Specify 2 PARAMETERS - 'x' and 'y'.
- * The ARGUMENTS that this function will receive will be bound to 'x' and 'y' respectively. This is essentially what we have been doing with 'const,' but the fxn. manages this for us.
- */
-function add2Nums(x, y) {
-  return x + y;
-}
-
-// INVOKE/EXECUTE/RUN the function with the ARGUMENTS `200` and `300`.
-// ARGUMENT 200 will be bound to 'x' and the argument `300` will be bound to
-// `y` while we are running 'add2Nums'
-// Whatever data is returned, bind it to the variable 'sum'
-const sum = add2Nums(200, 300);
-```
-
----
-
-⚠️ JavaScript is a [loosely typed language!](https://somup.com/cZeFn8CiOE)
+[How does this relate to workign with functions?](https://somup.com/cZeFn8CiOE)
 
 ## Homework Due Thursday
 
