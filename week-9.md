@@ -342,9 +342,14 @@ This will be an MD submission (Gist is fine).
 
 Recreate some of the object literal examples shown in the videos and the text. Then, make them your own. Add some additional properties, for instance.
 
-There are many potentially confusing 😕 concepts. `undefined` vs `null` vs `'not defined'`. Arrays vs. object literals and their treatment of `undefined`. `const` doesn't mean **constant.** Variables bound to primitive data types are passed as separate copies whenever they are used as function arguments.
+There are many potentially confusing 😕 concepts. I'd like you to provide your understanding of these. Here are a few to focus on:
 
-You are not expected to get it all down right now, but as much as possible, supplement your examples with additional explanations. Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
+1. What's up with `undefined` vs `null` vs `'not defined'`?
+1. How do **collection types** treat `undefined`? Heck, what are **collection/composite data types?**
+1. When does `const` not mean **constant?**
+1. How do we use variables as **function arguments?** What happens when we pass a variables that's bound to a primitive data type as a function argument?
+
+You are not expected to get it all down right now (I will grade a bit easier for this part), but as much as possible, supplement your examples with additional explanations. Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
 
 Ask any supplemental questions too. These questions will help guide the next lessons. Don't forget that you can use CoPilot chat and/or [Claude 3](claude.ai) to converse about these concepts as well. And, of course, you can use our [Q&A Discussion](https://github.com/orgs/SWIC-177/discussions/categories/q-a).
 
