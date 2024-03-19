@@ -56,6 +56,98 @@ Whenever we pass a **variable** that is bound to a **primitive data type** in as
 
 [Functions and Variables](https://somup.com/cZeFbACj7K)
 
+```javascript
+// Declare and initialize num1 with the value 2
+const num1 = 2;
+
+// Declare and initialize num2 with the value 3
+const num2 = 3;
+
+// Define a function add2Nums that takes two parameters: x and y
+function add2Nums(x, y) {
+  // When we call this function with num1 as the first argument,
+  // a COPY of num1's value is passed into x. This means that
+  // any changes to x inside this function will not affect num1.
+
+  // The function returns the sum of x and y
+  return x + y;
+}
+
+// Call the function `add2Nums` with `num1` and `num2` as arguments,
+// and assign the result to the variable sum
+const sum = add2Nums(num1, num2);
+
+// Log the value of sum to the console
+console.log(sum);
+```
+
+[Pass by Copy/Value](https://somup.com/cZeqXjC6Xq)
+
+### Function Scopes
+
+When we declare a variable inside of a function, it's only accessible within that function. This is known as **function scope.**
+
+```javascript
+function doSomething() {
+  // Declare a variable called myVar and initialize it with the value 2
+  const myVar = 2;
+
+  // Log the value of myVar to the console
+  console.log(myVar);
+}
+
+// Attempt to log the value of `myVar` to the console
+// This will result in a ReferenceError because `myVar` is not accessible outside of the function
+console.log(myVar);
+```
+
+[Function Scopes I](https://somup.com/cZeqXtC6IE)
+
+---
+
+```javascript
+// Declare a variable called myVar and initialize it with the value 2
+const myVar = 2;
+
+function doSomething() {
+  // Log the value of myVar to the console
+  console.log(myVar);
+}
+
+// Log the value of `myVar` to the console
+// This will log the value of `myVar` to the console
+console.log(myVar);
+```
+
+The code above will work. But, we are reaching outside of the function scope to access `myVar`. This is generally not recommended. We should pass `myVar` as an argument to the function if we need to use it inside of the function.
+
+[Video](https://somup.com/cZeqX4C624)
+
+### Variable Shadowing 🙅🏾‍♂️
+
+Whenever we declare a variable inside of a function that has the same name as a variable in the outer scope, the variable in the outer scope is said to be **shadowed** by the variable in the inner scope. 🙅🏾‍♂️
+
+```javascript
+// Declare a variable called myVar and initialize it with the value 2
+const myVar = 2;
+
+function doSomething() {
+  const myOtherVar = 3; // NO! 🙅🏾‍♂️
+
+  // Log the value of myVar to the console
+  console.log(`${myOtherVar} in the function`);
+}
+
+doSomething();
+
+// Log the value of `myVar` to the console
+// This will log the value of `myVar` to the console
+console.log(myVar);
+```
+
+[Variable Shadowing I](https://somup.com/cZeqXpC6oO)
+[Avoid Variable Shadowing in Parameters Too](https://somup.com/cZeqXHC6Dl)
+
 ## Conditional Logic
 
 ### `if` Statements
@@ -151,7 +243,7 @@ In the above we 💯 absolutely must use the braces because the blocks have mult
 
 1. [Video](https://somup.com/cZeb0ICiI6). I mention **coercion,** but we are going to forego that for now. We'll come back to it later.
 
-## Homework Due Tuesday
+## Homework Due ~~Tuesday~~ Thursday
 
 Turn your cameras 📹 on for this 1️⃣. You'll record a 3-5 minute video 📹 (max of 8 minutes please) demonstrating the following:
 
@@ -161,6 +253,8 @@ Turn your cameras 📹 on for this 1️⃣. You'll record a 3-5 minute video �
    1. `name` - a string
    1. `age` - a number
       The function will return a string that says "Welcome, [name]!" if the age is 18 or older. If the age is less than 18, the function will return "You are not old enough to enter, [name]."
+
+Note that ESLint might restructure your code a bit. That's fine. Try to ascertain why it does this.
 
 Just add it to your 'JS First Blood 🩸' repository. What matters is your **BrightSpace** video submission.
 
@@ -334,11 +428,9 @@ You might be wondering why we care about the bracket notation. After all, the do
 
 ## Functions in a Loosely Typed Language
 
-[How does this relate to workign with functions?](https://somup.com/cZeFn8CiOE)
+[How does this relate to working with functions?](https://somup.com/cZeFn8CiOE)
 
-## Homework Due Thursday
-
-This will be an MD submission (Gist is fine).
+## Homework Due ~~Thursday~~ Saturday
 
 Recreate some of the object literal examples shown in the videos and the text. Then, make them your own. Add some additional properties, for instance.
 
@@ -348,17 +440,23 @@ There are many potentially confusing 😕 concepts. I'd like you to provide your
 1. How do **collection types** treat `undefined`? Heck, what are **collection/composite data types?**
 1. When does `const` not mean **constant?**
 1. How do we use variables as **function arguments?** What happens when we pass a variables that's bound to a primitive data type as a function argument?
+1. What's the deal with **object literals?** How do we reference their properties? What's the difference between **dot notation** and **bracket notation?**
+1. What about **function scope?** What's the deal with **variable shadowing?**
 
-You are not expected to get it all down right now (I will grade a bit easier for this part), but as much as possible, supplement your examples with additional explanations. Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
+This will be an MD submission. A Gist is fine. Make sure to use [**fenced code blocks**](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#fenced-code-blocks) as I have done in this MD.
+
+Be **very detailed** in your explanations. These are pivotal concepts and we need to make sure we understand them. Also, I want to know that I'm not just talking to myself when I'm explaining these things in the videos 📹 😅.
+
+Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
 
 Ask any supplemental questions too. These questions will help guide the next lessons. Don't forget that you can use CoPilot chat and/or [Claude 3](claude.ai) to converse about these concepts as well. And, of course, you can use our [Q&A Discussion](https://github.com/orgs/SWIC-177/discussions/categories/q-a).
 
-## Homework Due Saturday
+## ~~Homework Due Saturday~~
 
-Read _Eloquent JS Chapter 2_ as shown in [this video.](https://somup.com/cZeFeFCiu2) You can stop at `while` and `do` loops.
+~~Read _Eloquent JS Chapter 2_ as shown in [this video.](https://somup.com/cZeFeFCiu2) You can stop at `while` and `do` loops.~~
 
-Note that the examples in this reading can be a bit more complex than necessary. I don't particularly care for them. So, just identify 3-5 things that you found interesting or confusing. You can also ask questions about the reading. Did this reading help solidify your understanding of the concepts we've covered so far? What's the most confusing part? What's the most straightforward part?
+~~Note that the examples in this reading can be a bit more complex than necessary. I don't particularly care for them. So, just identify 3-5 things that you found interesting or confusing. You can also ask questions about the reading. Did this reading help solidify your understanding of the concepts we've covered so far? What's the most confusing part? What's the most straightforward part?~~
 
-So, once again, this will be an MD Gist, but...wait, there's more! Refactor the `verifyAdulthood` function from the previous homework to use an object literal instead of separate parameters. If you want to include a video, you can, but since it's a small refactor, assuming it's not necessary. A concise explanation and/or code comments will suffice. Once again, you can do this as a commit on your `js-first-blood` repository.
+~~So, once again, this will be an MD Gist, but...wait, there's more! Refactor the `verifyAdulthood` function from the previous homework to use an object literal instead of separate parameters. If you want to include a video, you can, but since it's a small refactor, assuming it's not necessary. A concise explanation and/or code comments will suffice. Once again, you can do this as a commit on your `js-first-blood` repository.~~
 
-Just make 💯 sure that you have a pretty good idea 💡 of how to work with **object literals.** With AI 🤖, it's sometimes too easy to gloss over the details, and this will become a problem later on as things get more complex.
+~~Just make 💯 sure that you have a pretty good idea 💡 of how to work with **object literals.** With AI 🤖, it's sometimes too easy to gloss over the details, and this will become a problem later on as things get more complex.~~
