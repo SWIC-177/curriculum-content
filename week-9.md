@@ -249,9 +249,7 @@ Turn your cameras 📹 on for this 1️⃣. You'll record a 3-5 minute video �
 
 1. **Declare** a variable called `name` and assign it your name.
 1. **Declare** a variable called `age` and assign it your age. Feel free to lie about this one. 😂
-1. Write a function called `verifyAdulthood`. It will receive 2️⃣ **parameters**:
-   1. `name` - a string
-   1. `age` - a number
+1. Write a function called `verifyAdulthood`. It will receive 2️⃣ **parameters**. One for a person's name and one for the person's age. Beware ⚠️ **variable shadowing.** ☝️
       The function will return a string that says "Welcome, [name]!" if the age is 18 or older. If the age is less than 18, the function will return "You are not old enough to enter, [name]."
 
 Note that ESLint might restructure your code a bit. That's fine. Try to ascertain why it does this.
