@@ -142,6 +142,7 @@ doSomething();
 // This will log the value of `myVar` to the console
 console.log(myVar);
 ```
+**Bottom line:** Avoid declaring new variables with the same variable names in multiple places. In other words, using `const` with the same name multiple times in different scopes.
 
 [Variable Shadowing I](https://somup.com/cZeqXpC6oO)
 [Avoid Variable Shadowing in Parameters Too](https://somup.com/cZeqXHC6Dl)
