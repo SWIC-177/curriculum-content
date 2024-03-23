@@ -130,10 +130,10 @@ Whenever we declare a variable inside of a function that has the same name as a 
 const myVar = 2;
 
 function doSomething() {
-  const myOtherVar = 3; // NO! 🙅🏾‍♂️
+  const myVar = 3; // NO! 🙅🏾‍♂️
 
   // Log the value of myVar to the console
-  console.log(`${myOtherVar} in the function`);
+  console.log(`${myVar} in the function`);
 }
 
 doSomething();
