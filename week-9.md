@@ -24,8 +24,6 @@ function greet(name) {
 
 In the above example, `name` is a **parameter**. When we call the function, we'll pass an **argument** to it. The **argument** will be the **value** that we want to use in place of `name` inside of the function.
 
-![Arguments are the actual values that are passed to the function](./media/images/functions/arguments.png).
-
 Finally, optionally, but almost always, functions can specify a **return value**. This is the value that the function will produce when it's called. We can then use this value in our code.
 
 ![Functions can return a value](./media/images/functions/returns.png)
