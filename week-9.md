@@ -447,7 +447,7 @@ Be **very detailed** in your explanations. These are pivotal concepts and we nee
 
 Mix in your own understanding and perspectives. Can you suggest other analogies or explanations? What does it all mean to you? What's the most confusing part? What's the most straightforward part?
 
-Ask any supplemental questions too. These questions will help guide the next lessons. Don't forget that you can use CoPilot chat and/or [Claude 3](claude.ai) to converse about these concepts as well. And, of course, you can use our [Q&A Discussion](https://github.com/orgs/SWIC-177/discussions/categories/q-a).
+Ask any supplemental questions too. These questions will help guide the next lessons. Don't forget that you can use CoPilot chat and/or [Claude 3](https://claude.ai/) to converse about these concepts as well. And, of course, you can use our [Q&A Discussion](https://github.com/orgs/SWIC-177/discussions/categories/q-a).
 
 ## ~~Homework Due Saturday~~
 
