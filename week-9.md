@@ -142,7 +142,8 @@ doSomething();
 // This will log the value of `myVar` to the console
 console.log(myVar);
 ```
-**Bottom line:** Avoid declaring new variables with the same variable names in multiple places. In other words, using `const` with the same name multiple times in different scopes.
+
+**Bottom line:** Avoid declaring new variables with the same variable names in multiple places. In other words, using `const` with the same name multiple times in different scopes. This allows applies to **parameters** in functions. If you have a **parameter** with the same name as a variable in the outer scope, the **parameter** will **shadow** the variable in the outer scope.
 
 [Variable Shadowing I](https://somup.com/cZeqXpC6oO)
 [Avoid Variable Shadowing in Parameters Too](https://somup.com/cZeqXHC6Dl)
@@ -249,7 +250,7 @@ Turn your cameras 📹 on for this 1️⃣. You'll record a 3-5 minute video �
 1. **Declare** a variable called `name` and assign it your name.
 1. **Declare** a variable called `age` and assign it your age. Feel free to lie about this one. 😂
 1. Write a function called `verifyAdulthood`. It will receive 2️⃣ **parameters**. One for a person's name and one for the person's age. Beware ⚠️ **variable shadowing.** ☝️
-      The function will return a string that says "Welcome, [name]!" if the age is 18 or older. If the age is less than 18, the function will return "You are not old enough to enter, [name]."
+   The function will return a string that says "Welcome, [name]!" if the age is 18 or older. If the age is less than 18, the function will return "You are not old enough to enter, [name]."
 
 Note that ESLint might restructure your code a bit. That's fine. Try to ascertain why it does this.
 
