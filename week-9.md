@@ -304,8 +304,6 @@ Collection data types are used to keep track of groups of things. They are also 
 
 ### Arrays
 
-![Variables are for hold singular bits of information](./media/images/arrays/arrays.png)
-
 We reference elements in an array using an index. Each element is automatically numbered **starting at `0`.** We just specify the 'numbered index' we need inside of `[]`
 
 ```javascript
