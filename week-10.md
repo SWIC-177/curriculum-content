@@ -20,13 +20,13 @@ If we want to run something a specific number of times, we can use `for`. `for` 
 
 1. Where do you want to start? We can use `let` to create a _variable_ to keep track of this: `let i = 0;` (`i` is just a made up name).
 2. When do you want to end? We can set some _conditional_: `i <= 10;` Keep going until `i` reaches `10` (_boolean_).
-3. How much do you want to _increment_ by each time? If we don't update `i`, we'll never reach `10`, and our program will be stuck in an infinite loop. So, to increase `i` by `1` each time, we can do: `i++`. This will throw out the current _value_ of `i` add `1`, and _assign_ that new _value_ to `i`.
+3. How much do you want to _increment_ by each time? If we don't update `i`, we'll never reach `10`, and our program will be stuck in an infinite loop. So, to increase `i` by `1` each time, we can do: `i+= 1`. This will throw out the current _value_ of `i` add `1`, and _assign_ that new _value_ to `i`.
 
 Putting all together now:
 
 ```js
 // for (some initial condition; some ending condition; some increment interval)
-for (let i = 0; i <= 10; i++) {
+for (let i = 0; i <= 10; i += 1) {
   // Do something
 }
 ```
@@ -42,13 +42,13 @@ let i = 0;
 
 while (i <= 10) {
   // DO SOMETHING
-  i++; // This is shorthand for i = i + 1;
+  i += 1; // This is shorthand for i = i + 1;
 }
 ```
 
 ![Code example of using a `while` loop to increment from 1 to 10.](./media/images/loops-2.png)
 
-While the number has a value that’s lower than 10, the statement gets executed. The statement is myNumber++, which increases the value of myNumber on every execution. The last number where the condition would return true, is if myNumber = 9. myNumber then gets incremented one more time, which makes it 10. The condition is now false, and the loop stops.
+While the number has a value that’s lower than 10, the statement gets executed. The statement is myNumber+= 1, which increases the value of myNumber on every execution. The last number where the condition would return true, is if myNumber = 9. myNumber then gets incremented one more time, which makes it 10. The condition is now false, and the loop stops.
 
 ## FIRST PART of Homework Due Tuesday
 
@@ -93,7 +93,7 @@ const groceryList = ["Apples", "Bananas", "TP", "Bars", "Wacon", "🥚s"];
  *
  * To get that LENGTH, we just have to access the name of that ARRAY and add a '.length' - 'groceryList.length'
  */
-for (let i = 0; i < groceryList.length; i++) {
+for (let i = 0; i < groceryList.length; i += 1) {
   // 'i' will ITERATE from '0' to '5', INCREMENTING by 1 each time...
   console.log(groceryList[i]);
 }
@@ -103,7 +103,7 @@ let i = 0;
 
 while (i < groceryList.length) {
   console.log(groceryList[i]);
-  i++;
+  i += 1;
 }
 ```
 
@@ -117,3 +117,85 @@ The above explanation is taken from some content written by 1️⃣ [Lydia Halli
 Given the following array of numbers: `const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];`, write a ➿ that only `log`s the even numbers in the array.
 
 You can do this with whichever ➿ that you prefer. Once again, I'll need an accompanying video code walkthrough. You may continue using the same repo. Create a new file called `even-numbers.js` and put your code in there. Remember that you need to run `node even-numbers.js` to run your program.
+
+---
+
+## First Part of HW Due Thursday
+
+Once again, you'll use your `js-first-blood`.
+
+Start by pasting the following code into your `index.js`:
+
+```js
+const person = {
+  name: "John",
+  age: 17,
+};
+
+function verifyAdulthood(personName, personAge) {
+  if (personAge >= 18) return `Welcome, ${personName}!`;
+
+  return `You are not old enough to enter, ${personName}.`;
+}
+
+const adultMessage = verifyAdulthood(userName, userAge);
+
+console.log(adultMessage);
+```
+
+The code is broken. Fix it. DO NOT change the `person` object except to change the age to make sure that it still works. The purpose of this assignment is to make sure that you understand how to pass arguments to functions and how to access object properties.
+
+Create another video to explain what you did and why you did it. Share the video in BrightSpace.
+
+## Second Part of HW Due Thursday
+
+Make sure that the previous work is committed and pushed to your repo, as we will be building on it.
+
+```js
+const people = [
+  {
+    name: "John",
+    age: 17,
+  },
+  {
+    name: "Jane",
+    age: 20,
+  },
+  {
+    name: "Mary",
+    age: 25,
+  },
+  {
+    name: "Peter",
+    age: 30,
+  },
+  {
+    name: "Paul",
+    age: 35,
+  },
+];
+
+function verifyAdulthood(personName, personAge) {
+  if (personAge >= 18) return `Welcome, ${personName}!`;
+
+  return `You are not old enough to enter, ${personName}.`;
+}
+
+// TODO: Use a loop to call the verifyAdulthood function for each person in the people array.
+```
+
+DO NOT change any of the existing code. Just add your code to replace the `TODO`.
+
+You will need to add a loop (whichever) to call the `verifyAdulthood` function for each person in the `people` array. You will need to use the `name` and `age` properties of each object in the `people` array as arguments to the `verifyAdulthood` function.
+
+Here's the example output:
+
+```shell
+You are not old enough to enter, John.
+Welcome, Jane!
+Welcome, Mary!
+Welcome, Peter!
+Welcome, Paul!
+```
+
+You do not need to make a video for this part of the homework. Just make sure that you commit and push your changes to your `first-blood` repo.
