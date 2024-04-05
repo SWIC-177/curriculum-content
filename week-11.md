@@ -112,3 +112,51 @@ console.log(`Other Person's name is: ${otherPerson.name}`);
 In a video response (a la an interview question), explain why the output is what it is. How does this code illustrate the concept of JS **objects being 'pass by reference'?**
 
 Also, in the same video, explain how we would access the `zip` property of the `address` object in the `person` object.
+
+---
+
+## Functions are First Class
+
+In JavaScript, functions are first-class citizens. This means that they can be passed around like any other value. This is a powerful concept that allows us to write more modular and reusable code.
+
+Anything that we can do with another data type, we can do with functions! We can assign them to variables, pass them as arguments to other functions, and return them from other functions.
+
+### Creating Functions with `const` (or `let`)
+
+If functions are 'first-class citizens' in JavaScript, then we should be able to assign them to variables just like any other type of data.
+
+[Arrow Functions](https://somup.com/cZfhnQCa30)
+
+### Passing Functions as Arguments
+
+If functions are 'first-class citizens' in JavaScript, then we should be able to pass them as arguments to other functions, just like any other type of data.
+
+[Passing Functions as Arguments](https://somup.com/cZfhnoCa3K)
+
+### Returning Functions from Functions
+
+If functions are 'first-class citizens' in JavaScript, then we should be able to return them from other functions, just like any other type of data.
+
+This really unlocks some powerful **functional programming** patterns that we can use in our code. In this case, **higher order functions,** **closures** and even **currying**.
+
+[Returning Functions from Functions](https://somup.com/cZfhn7CaTf)
+
+## Homework Due Saturday (20 points)
+
+These are some deep concepts! What do you think 🤔? Naturally, you'll write up an MD Gist that summarizes your thoughts and perspectives on these concepts. What's your level of comfort with them? Do you have any other analogies or perspectives that you would use to explain these things in an interview?
+
+In addition to the write up, I want you to emulate the code from the videos and add them to 'JS First 🩸 Blood.' Notice that I said emulate. That means that you don't need to just blindly copy what I am doing. Change something up. The data, the variables names something. You'll find that if you change up the code even just a bit and think about it rather than just copy it, the learning will go much better. 🤓
+
+---
+
+Finally, try this exercise on:
+
+We need some functions that we can call on the fly that will increment a hypothetical score board. So, for instance, thinking about 🏀, we can increment the score by 1️⃣, 2️⃣ or 3️⃣. For 🏈, it can be: 2️⃣, 3️⃣ or 6️⃣.
+
+Create a function that will take in a score and return a function that will increment the score by that amount. So, if we pass in 3️⃣, we should get back a function that will increment the score by 3️⃣.
+
+You should find this to be similar to what you saw in the video 📹 for the 'multipliers.' But these are...'adders.'
+
+---
+
+As usual, **commit** and **push** the code to 'JS First Blood' and **submit** the link to the Gist in (Not so Bright) BrightSpace! You can just keep overwriting the 'index' file, or you can create a new file for each of the exercises. **Be sure to mention in your submissions what files I should be looking at!**
