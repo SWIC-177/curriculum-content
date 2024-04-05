@@ -125,7 +125,7 @@ Anything that we can do with another data type, we can do with functions! We can
 
 If functions are 'first-class citizens' in JavaScript, then we should be able to assign them to variables just like any other type of data.
 
-[Arrow Functions](https://somup.com/cZfhnQCa30)
+[Arrow Functions](https://somup.com/cZfhe1CaTW)
 
 ### Passing Functions as Arguments
 
