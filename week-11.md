@@ -141,7 +141,7 @@ This really unlocks some powerful **functional programming** patterns that we ca
 
 [Returning Functions from Functions](https://somup.com/cZfhn7CaTf)
 
-## Homework Due Saturday (20 points)
+## Homework Due ~~Saturday~~ Sunday
 
 These are some deep concepts! What do you think 🤔? Naturally, you'll write up an MD Gist that summarizes your thoughts and perspectives on these concepts. What's your level of comfort with them? Do you have any other analogies or perspectives that you would use to explain these things in an interview?
 
