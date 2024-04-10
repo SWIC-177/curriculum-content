@@ -81,7 +81,7 @@ Using these code snippets (paste them in 1️⃣ at a time), walkthrough the cod
 
 ## Third Part of HW Due Thursday
 
-Read _Eloquent JavaScript_ [Chapter 4️⃣] up until _The Lycanthrope's Log._ This [video shows where to start and stop.](https://somup.com/cZfVeUCtmr)
+Read [_Eloquent JavaScript_-Chapter 4️⃣](https://eloquentjavascript.net/04_data.html) up until _The Lycanthrope's Log._ This [video shows where to start and stop.](https://somup.com/cZfVeUCtmr)
 
 Write up an MD file (Gist) that summarizes what you got out of the chapter. What can you add from your own perspective? Are the concepts relatable to anything that you have seen in other courses or maybe in your own life? What are some examples that you can think of that would help you understand the concepts better?
 
