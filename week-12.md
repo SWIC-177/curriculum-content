@@ -234,7 +234,7 @@ Regardless, you still need to upload it to BrightSpace so that I can easily see 
 
 JavaScript is a multi-paradigm language. This means that it supports multiple programming paradigms. A **programming paradigm** is a style of programming. There are several programming paradigms, including:
 
-1. **Imperative:** This is the most common programming paradigm for beginners, especially. It is based on the idea of changing the state of the program by executing commands. This is what we've been doing thus far.
+1. **Imperative/Procedural:** This is the most common programming paradigm for beginners, especially. It is based on the idea of changing the state of the program by executing commands. This is what we've been doing thus far.
 1. **Declarative/Functional:** This is based on the idea of describing what you want to happen, rather than how you want it to happen. This is what we will be moving towards. It uses functions and expressions to describe the logic of a program. Purely functional programming (e.g. Haskell) is a subset of declarative programming. From a purist's perspective, JavaScript is not a functional programming language, but it does support functional programming concepts.
 1. **Object-Oriented:** This is based on the idea of objects that contain data and methods. It is the core of how JavaScript was designed, but is arguably not as commonly used in modern JavaScript.
 
