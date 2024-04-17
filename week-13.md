@@ -80,3 +80,35 @@ Submit the video (direct link preferred) in BrightSpace.
 Create another example of using a `map` function with an array of objects. The objects should have at least two properties. The `map` function should return a new array of objects with at least one property modified. Create a video walkthrough of your code, explaining what you are doing and why. Submit the video (direct link preferred) in BrightSpace. 5 points bonus for sharing your video in our [Show and Tell](https://github.com/orgs/SWIC-177/discussions/categories/show-and-tell). To earn the bonus points, your video must be shared **as a direct link (e.g. ScreenPal, Vimeo, YouTube, etc.) and not as an attachment.**
 
 The link can be 'unlisted' so that it does not appear in search results. Or, you may want to start making these public and adding them to your portfolio/resume.
+
+---
+
+## Closing the Gap Between HTML/CSS and JavaScript
+
+Now that we have the basics of programming in JavaScript, we can move back into working in the browser, where we can apply our skills in am more appealing and realistic manner than just outputting to the console.
+
+### BOM and DOM
+
+The Browser Object Model (BOM) and the Document Object Model (DOM) are two separate models that allow us to interact with the browser and the HTML document, respectively.
+
+- **BOM**: The Browser Object Model is a set of objects provided by the browser that allow us to interact with the browser itself. This includes objects like `window`, `navigator`, `location`, `history`, and `screen`. We can use the BOM to manipulate the browser window, change the URL, and interact with the user's screen.
+- **DOM**: The Document Object Model is a representation of the HTML document that we can interact with using JavaScript. We can use the DOM to create, modify, and delete elements on the page, as well as add interactivity to our websites.
+
+In both cases, we note that JavaScript itself is just another programming language. It doesn't have any knowledge of what an browser is or what an HTML document is. It's the browser that provides the JavaScript engine with the objects and methods that allow us to interact with the browser and the document.
+
+To put it another way, we are modeling the browser itself along with HTML documents as...objects! JavaScript doesn't know about browsers or HTML, but it sure as heck knows about objects. Anything that can be represented as an object can be manipulated by JavaScript.
+
+This is why JavaScript is so powerful in the browser. It's not because JavaScript is some special language, but because it became 'the chosen one' for browsers back in 1995.
+
+[Let's Read](https://somup.com/cZfD0GC7RM)
+[BOM and DOM Demo I](https://somup.com/cZfbc1C7Ss)
+[BOM and DOM Demo II](https://somup.com/cZfbcFC7WO)
+[BOM and DOM Demo III](https://somup.com/cZfbcvC7WW)
+
+## Homework Due Thursday
+
+1. Write a Gist up about the lesson, including the videos, of course. Convey that you actually watched the videos by commenting on what you saw and what you thought about it.
+1. Use MDN and/or AI and explore some other things that can be done with the BOM and DOM. Record a brief video on your findings. Demo them if possible, or just show the explanation and example codes and walk us through it. Just 2 or 3 will be fine. Submit the video (direct link preferred) in BrightSpace.
+1. Now, find any site of your choice and record a demo similar, but not identical to mine. Show some text manipulation and the use of `addEventListener`. You don't have to be limited to just `"click"`. There's a lot more you can do with `addEventListener`. Submit the video (direct link preferred) in BrightSpace.
+
+Earn 5 points extra credit by sharing your videos in our [Show and Tell](https://github.com/orgs/SWIC-177/discussions/categories/show-and-tell). To earn the bonus points, your videos must be shared **as direct links (e.g. ScreenPal, Vimeo, YouTube, etc.) and not as attachments.** You can share voff in the same post!
