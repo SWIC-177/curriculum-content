@@ -112,3 +112,36 @@ This is why JavaScript is so powerful in the browser. It's not because JavaScrip
 1. Now, find any site of your choice and record a demo similar, but not identical to mine. Show some text manipulation and the use of `addEventListener`. You don't have to be limited to just `"click"`. There's a lot more you can do with `addEventListener`. Submit the video (direct link preferred) in BrightSpace.
 
 Earn 5 points extra credit by sharing your videos in our [Show and Tell](https://github.com/orgs/SWIC-177/discussions/categories/show-and-tell). To earn the bonus points, your videos must be shared **as direct links (e.g. ScreenPal, Vimeo, YouTube, etc.) and not as attachments.** You can share voff in the same post!
+
+## `map` Practice with the DOM and Beyond
+
+1. [Simple Data Scraping](https://youtu.be/8M0tPevStqs)
+
+## Homework Due Saturday I
+
+Do some 'simple data scraping' on the site of your choice. It can be pretty much whatever you want to do, but should use `map` to 'extract data.'
+
+Record a video of your process and submit the video (direct link preferred) in BrightSpace. For 5️⃣ points extra credit, share your video in our [Show and Tell](https://github.com/orgs/SWIC-177/discussions/categories/show-and-tell). To earn the bonus points, your video must be shared **as a direct link (e.g. ScreenPal, Vimeo, YouTube, etc.) and not as an attachment.**
+
+## Homework Due Saturday II
+
+We are starting some JS work in our new 'browser template repo.' Not much happens as of yet, but...
+
+For _Section 1️⃣,_ here's the [GitHub Classroom Link.](https://classroom.github.com/a/eWpz5OR9).
+
+For _Section 2️⃣,_ here's the [GitHub Classroom Link.](https://classroom.github.com/a/4zvHBur9)
+
+### Videos
+
+You are just to follow along and replicate what's in these videos.
+
+1. [Overview](https://go.screenpal.com/watch/cZfqnhVsW8K) - You'll notice the code is actually a bit different from what's shown in the video. I made some minor updates after the recording.
+1. [Commits and ESM](https://somup.com/cZfqnOCNJZ)
+
+In addition to the following the code, I'll need another reflections Gist from you. Give some feedback on what's covered in the videos, including ESM and the `import` and `export` statements. What did you learn? What did you find interesting? What did you find challenging?
+
+As emphasized in the videos, we are coming up on the end here so I'm re-emphasizing the importance of **commit messages,** and leveraging our template repo tooling. I will be grading extra hard for any 💩 commit messages at this point! No excuse between the demos and the extension shown!
+
+---
+
+We will be picking up with finishing this up next week and moving even more into the browser!
