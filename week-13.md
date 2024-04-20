@@ -144,4 +144,4 @@ As emphasized in the videos, we are coming up on the end here so I'm re-emphasiz
 
 ---
 
-We will be picking up with finishing this up next week and moving even more into the browser!
+We will be finishing this up next week and moving even more into the browser!
