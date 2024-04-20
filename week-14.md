@@ -49,7 +49,7 @@ All you have to do then is to call the function with the proper arguments and ju
 1. Research [`sort`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) and [`toSorted](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toSorted#examples). What's the difference? What does it mean when it mentions "in place"? Write a short Gist on this.
 1. In the `wwe` project, implement, "Alphabetize `CHAMPIONS` by last name."
 1. In the `lib.js` file, create a reusable function that will take an array of strings along with either: `"first"` or `"last"` as arguments. The function should return the array sorted by either the first or last name of the strings. The second parameter should be optional. Assign a default value of `"last"` if an argument is not passed in.
-1. See if you can devise a test to prove that it passes. I will grade lightly on this part. BTW, CoPilot is excellent at writing tests for you. Just ask it to do so.
+1. See if you can devise a test to prove that it passes. I will grade lightly on this part. BTW, CoPilot is excellent at writing tests for you. Just ask it to do so. You may need to do: `npm i -D vitest` and add a script to your `package.json` to run the tests.
 
 ---
 
@@ -63,3 +63,7 @@ Create a new ARRAY of objects called `CHAMPIONSHIPS` that contains the following
 --
 
 **🚨 All work subject to code quality standards and proper commits.**
+
+--
+
+Use [Q&A](https://github.com/SWIC-177/wwe/discussions/categories/q-a).
