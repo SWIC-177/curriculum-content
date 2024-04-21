@@ -123,6 +123,8 @@ Do some 'simple data scraping' on the site of your choice. It can be pretty much
 
 Record a video of your process and submit the video (direct link preferred) in BrightSpace. For 5️⃣ points extra credit, share your video in our [Show and Tell](https://github.com/orgs/SWIC-177/discussions/categories/show-and-tell). To earn the bonus points, your video must be shared **as a direct link (e.g. ScreenPal, Vimeo, YouTube, etc.) and not as an attachment.**
 
+**Bonus Content:** Here is [Wes Bos](https://youtu.be/Vo_8uc1j2Yk?si=szqDSEfG1BCoN9e_) doing something similar for something that he actually needs! 
+
 ## Homework Due Saturday II
 
 We are starting some JS work in our new 'browser template repo.' Not much happens as of yet, but...
