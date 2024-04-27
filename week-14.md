@@ -42,7 +42,7 @@ There are 2️⃣ parts to this submission:
 
 To accomplish this, you will work in your `main.js` file and do: `import { removeCorrespondingItemsByTerm } from "./src/lib";`
 
-~~All you have to do then is to call the function with the proper arguments and just log the results to the console. Make a 'proper' commit and push it up.
+All you have to do then is to call the function with the proper arguments and just log the results to the console. Make a 'proper' commit and push it up.
 
 ## Homework Due ~~Saturday~~ Next Tuesday
 
