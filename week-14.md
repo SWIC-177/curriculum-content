@@ -42,7 +42,7 @@ There are 2️⃣ parts to this submission:
 
 To accomplish this, you will work in your `main.js` file and do: `import { removeCorrespondingItemsByTerm } from "./src/lib";`
 
-~~All you have to do then is to call the function with the proper arguments and just log the results to the console. Make a 'proper' commit and push it up.
+All you have to do then is to call the function with the proper arguments and just log the results to the console. Make a 'proper' commit and push it up.
 
 ## Homework Due ~~Saturday~~ Next Tuesday
 
@@ -66,7 +66,7 @@ In a separate commit, once you hav resolved the each and everything ☝️, writ
 
 ---
 
-**5 Points Extra Credit (Due Saturday):** The last task listed:
+**5 Points Extra Credit (Due ~~Saturday~~ Next Tuesday):** The last task listed:
 
 Create a new ARRAY of objects called `CHAMPIONSHIPS` that contains the following properties:
 
