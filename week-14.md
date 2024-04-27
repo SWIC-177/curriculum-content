@@ -56,7 +56,7 @@ Unlike the 'crazy 🤡' video previously, most of this is relevant.
 
 **NOTE:** We didn't fully solve the problem. Expect an update soon regarding that.
 
-1. See if you can devise a test to prove that it passes. I will grade lightly on this part. BTW, CoPilot is excellent at writing tests for you. Just ask it to do so. You may need to do: `npm i -D vitest` and add a script to your `package.json` to run the tests.
+~~1. See if you can devise a test to prove that it passes. I will grade lightly on this part. BTW, CoPilot is excellent at writing tests for you. Just ask it to do so. You may need to do: `npm i -D vitest` and add a script to your `package.json` to run the tests.~~
 
 ---
 
