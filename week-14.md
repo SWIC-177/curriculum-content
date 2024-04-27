@@ -52,8 +52,6 @@ All you have to do then is to call the function with the proper arguments and ju
 
 In this video, we review some parts of VS Code and we fix an issue with the tooling 🧰. We also review ESM, `filter` and just various other JS topics.
 
-Unlike the 'crazy 🤡' video previously, most of this is relevant.
-
 ### Fixed! 🐛
 
 In the Q&A video, our results were not correct! That's been fixed.
