@@ -80,3 +80,7 @@ Create a new ARRAY of objects called `CHAMPIONSHIPS` that contains the following
 --
 
 Use [Q&A](https://github.com/SWIC-177/wwe/discussions/categories/q-a).
+
+## Bonus Content
+
+[We cover additional JS insights](https://around.co/playback/89f06373-1830-4980-8963-535ac79a03ee?sharedKey=2754cf79-190c-4fa7-8cef-37dacedf15c6) including functional programming, other 'array tricks,' testing ✅, `flat` and more.
