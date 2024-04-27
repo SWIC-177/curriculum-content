@@ -42,13 +42,20 @@ There are 2️⃣ parts to this submission:
 
 To accomplish this, you will work in your `main.js` file and do: `import { removeCorrespondingItemsByTerm } from "./src/lib";`
 
-All you have to do then is to call the function with the proper arguments and just log the results to the console. Make a 'proper' commit and push it up.
+~~All you have to do then is to call the function with the proper arguments and just log the results to the console. Make a 'proper' commit and push it up.
 
-## Homework Due Saturday
+## Homework Due ~~Saturday~~ Next Tuesday
 
-1. Research [`sort`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) and [`toSorted](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toSorted#examples). What's the difference? What does it mean when it mentions "in place"? Write a short Gist on this.
-1. In the `wwe` project, implement, "Alphabetize `CHAMPIONS` by last name."
-1. In the `lib.js`(may need to create that) file, create a reusable function that will take an array of strings along with either: `"first"` or `"last"` as arguments. The function should return the array sorted by either the first or last name of the strings. The second parameter should be optional. Assign a default value of `"last"` if an argument is not passed in.
+### Update/Edit
+
+**UPDATED:** I have removed 🔥 the task regarding sorting. Once again, I overestimated the difficulty. Instead, I walk you through the sort task [in this Q&A video](https://around.co/playback/ff124133-420b-48e4-a38a-aabcbfab4917?sharedKey=7f4e3e6a-94d4-4581-9c69-5b05178719dc).
+
+In this video, we review some parts of VS Code and we fix an issue with the tooling 🧰. We also review ESM, `filter` and just various other JS topics.
+
+Unlike the 'crazy 🤡' video previously, most of this is relevant.
+
+**NOTE:** We didn't fully solve the problem. Expect an update soon regarding that.
+
 1. See if you can devise a test to prove that it passes. I will grade lightly on this part. BTW, CoPilot is excellent at writing tests for you. Just ask it to do so. You may need to do: `npm i -D vitest` and add a script to your `package.json` to run the tests.
 
 ---
