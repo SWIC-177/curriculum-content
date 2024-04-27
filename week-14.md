@@ -54,9 +54,15 @@ In this video, we review some parts of VS Code and we fix an issue with the tool
 
 Unlike the 'crazy 🤡' video previously, most of this is relevant.
 
-**NOTE:** We didn't fully solve the problem. Expect an update soon regarding that.
+### Fixed! 🐛
 
-1. See if you can devise a test to prove that it passes. I will grade lightly on this part. BTW, CoPilot is excellent at writing tests for you. Just ask it to do so. You may need to do: `npm i -D vitest` and add a script to your `package.json` to run the tests.
+In the Q&A video, our results were not correct! That's been fixed.
+
+[There was an extra `" "` in the `DATA` array.](https://go.screenpal.com/watch/cZftqzVMODs) I have removed 🔥 it. You should do the same.
+
+### Add a Test ✅
+
+In a separate commit, once you hav resolved the each and everything ☝️, write ✍️ a test ✅ that verifies the functionality of `getLastName` function that was shown the aforementioned video 📹.
 
 ---
 
