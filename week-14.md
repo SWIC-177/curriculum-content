@@ -48,9 +48,7 @@ All you have to do then is to call the function with the proper arguments and ju
 
 ### Update/Edit
 
-**UPDATED:** I have removed 🔥 the task regarding sorting. Once again, I overestimated the difficulty. Instead, I walk you through the sort task [in this Q&A video](https://around.co/playback/ff124133-420b-48e4-a38a-aabcbfab4917?sharedKey=7f4e3e6a-94d4-4581-9c69-5b05178719dc).
-
-In this video, we review some parts of VS Code and we fix an issue with the tooling 🧰. We also review ESM, `filter` and just various other JS topics.
+**UPDATED:** I have removed 🔥 the task regarding sorting. Once again, I overestimated the difficulty. Instead, I walk you through the sort task [in this Q&A video](https://around.co/playback/ff124133-420b-48e4-a38a-aabcbfab4917?sharedKey=7f4e3e6a-94d4-4581-9c69-5b05178719dc). We also review some parts of VS Code and we fix an issue with the tooling 🧰. We also review ESM, `filter` and just various other JS topics. Feel free to scrub the video as needed! Not all of it will be 💯 relevant for your situation.
 
 ### Fixed! 🐛
 
