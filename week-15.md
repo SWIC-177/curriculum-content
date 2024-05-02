@@ -2,7 +2,7 @@
 
 **Note:** This week's content starts for Thursday as we extended last week's content to Tuesday.
 
-## Homework Due Thursday
+## Homework Due Saturday
 
 The homework will just be code-alongs. You will watch the video and follow along. You will then commit and push your code and **write proper commit messages.**
 
@@ -68,3 +68,5 @@ function merge2ArraysIntoAnArrayOfObjects(parameters):
 1. [Failing Test](https://somup.com/cZhVnz56GB)
 1. [Passing Test](https://somup.com/cZhVnN56mO)
 1. [Break Down of `reduce`](https://go.screenpal.com/watch/cZhVeeVMadi)
+
+---
