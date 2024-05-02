@@ -41,6 +41,30 @@ describe("getLastName", () => {
 
 We've mentioned this before, and now we'll actually do it. We'll write the tests first and then write the code to make the tests pass.
 
+Before proceeding with the videos, you may wish to consider the following pseudo code:
+
+```text
+function merge2ArraysIntoAnArrayOfObjects(parameters):
+    - The function takes an object as a parameter with the following properties:
+        - a1: An array
+        - a2: Another array of the same length as a1
+        - key1: A string representing the key for elements from a1 in the resulting objects
+        - key2: A string representing the key for elements from a2 in the resulting objects
+
+    - Initialize an empty array to store the accumulated results
+
+    - Iterate over each element in a1 using the reduce function:
+        - For each element in a1 at index i:
+            - Create a copy of the accumulated results array
+            - Create a new object:
+                - Set the property named key1 to the current element from a1
+                - Set the property named key2 to the element at the same index i from a2
+            - Append the new object to the copy of the accumulated results array
+            - Return the updated accumulated results array
+
+    - Return the final accumulated results array containing objects with properties key1 and key2
+```
+
 1. [Failing Test](https://somup.com/cZhVnz56GB)
 1. [Passing Test](https://somup.com/cZhVnN56mO)
 1. [Break Down of `reduce`](https://go.screenpal.com/watch/cZhVeeVMadi)
