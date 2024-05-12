@@ -228,3 +228,9 @@ At this point, I installed [Validator.js](https://github.com/validatorjs/validat
 ---
 
 Upon exploring the enabling/disabling of the Submit button, it was determined that this was a bit much at this point. However, how do you think that it could be done? Write up a few thoughts and include them in your Gist.
+
+---
+
+## Bonus Content
+
+[Dealing with Merge Conflits](https://youtu.be/LWrqQBpgwWc?si=TIMZeadZCAau5y2e)
