@@ -18,3 +18,4 @@
 14. [Week 14](./week-14.md)
 15. [Week 15](./week-15.md)
 16. [Week 16](./week-16.md)
+17. [Final Exam](./final.md)
